@@ -1,0 +1,50 @@
+C:\Users\nikni\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\nikni\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\nikni\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\nikni\source\repos\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\nikni\source\repos\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\nikni\source\repos\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\nikni\source\repos\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\nikni\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\nikni\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\nikni\source\repos\Client\Client\obj\Debug\Client.pdb
+C:\Users\nikni\source\repos\AppClient\Client\bin\Debug\Client.exe.config
+C:\Users\nikni\source\repos\AppClient\Client\bin\Debug\Client.exe
+C:\Users\nikni\source\repos\AppClient\Client\bin\Debug\Client.pdb
+C:\Users\nikni\source\repos\AppClient\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\nikni\source\repos\AppClient\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\nikni\source\repos\AppClient\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\nikni\source\repos\AppClient\Client\obj\Debug\Client.exe
+C:\Users\nikni\source\repos\AppClient\Client\obj\Debug\Client.pdb
+C:\Users\nikni\source\repos\AppClient\Client\obj\Debug\Client.Form1.resources
+C:\Users\nikni\source\repos\AppClient\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\nikni\source\repos\Serialization\Client\bin\Debug\Client.exe.config
+C:\Users\nikni\source\repos\Serialization\Client\bin\Debug\Client.exe
+C:\Users\nikni\source\repos\Serialization\Client\bin\Debug\Client.pdb
+C:\Users\nikni\source\repos\Serialization\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\nikni\source\repos\Serialization\Client\obj\Debug\Client.Form1.resources
+C:\Users\nikni\source\repos\Serialization\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\nikni\source\repos\Serialization\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\nikni\source\repos\Serialization\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\nikni\source\repos\Serialization\Client\obj\Debug\Client.exe
+C:\Users\nikni\source\repos\Serialization\Client\obj\Debug\Client.pdb
+F:\tmp\Lab 6\Serialization\Client\bin\Debug\Client.exe.config
+F:\tmp\Lab 6\Serialization\Client\bin\Debug\Client.exe
+F:\tmp\Lab 6\Serialization\Client\bin\Debug\Client.pdb
+F:\tmp\Lab 6\Serialization\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\tmp\Lab 6\Serialization\Client\obj\Debug\Client.Form1.resources
+F:\tmp\Lab 6\Serialization\Client\obj\Debug\Client.Properties.Resources.resources
+F:\tmp\Lab 6\Serialization\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\tmp\Lab 6\Serialization\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\tmp\Lab 6\Serialization\Client\obj\Debug\Client.exe
+F:\tmp\Lab 6\Serialization\Client\obj\Debug\Client.pdb
+C:\vse\Lab6\Serialization\Client\bin\Debug\Client.exe.config
+C:\vse\Lab6\Serialization\Client\bin\Debug\Client.exe
+C:\vse\Lab6\Serialization\Client\bin\Debug\Client.pdb
+C:\vse\Lab6\Serialization\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\vse\Lab6\Serialization\Client\obj\Debug\Client.Form1.resources
+C:\vse\Lab6\Serialization\Client\obj\Debug\Client.Properties.Resources.resources
+C:\vse\Lab6\Serialization\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\vse\Lab6\Serialization\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\vse\Lab6\Serialization\Client\obj\Debug\Client.exe
+C:\vse\Lab6\Serialization\Client\obj\Debug\Client.pdb
